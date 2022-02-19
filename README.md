@@ -1,16 +1,4 @@
 # flutter_phone_auth
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Make your users feel secure while using your apps, while providing the convenience of leveraging their phone number for authentication.
+We’ll be building two paged flutter application, which asks user for authentication using phone number on success sign in/sign up you will be navigated to another screen.
